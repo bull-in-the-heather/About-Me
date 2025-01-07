@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on:<br>A project named *XENTERPRISE* that will showcase all of the skills in my tech stack.<br><br>👯 I’m looking to collaborate on:<br>Automation projects<br><br>🌱 I’m currently learning:<br>Sysadmin & DevOps<br>
+🔭 I’m currently working on:<br>A project named *XENTERPRISE* that will showcase all of the skills in my tech stack.<br><br>👯 I’m looking to collaborate on:<br>Automation projects<br><br>🌱 I’m currently learning:<br>Cybersecurity<br>
 
 
 ## 🌐 Socials:
